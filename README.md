@@ -37,6 +37,6 @@
 "祭典" = "https://splatoon3.ink/splatfests"
 ```
 
-## 打赏
-<img src="https://github.com/user-attachments/assets/51a12660-2676-4f95-bee8-9999b08b13d1" style="width: 380px; height: auto; border: 1px solid #eee;" />
+## 支持
+<img src="https://github.com/user-attachments/assets/51a12660-2676-4f95-bee8-9999b08b13d1" style="width: 370px; height: auto; border: 1px solid #eee;" />
 
